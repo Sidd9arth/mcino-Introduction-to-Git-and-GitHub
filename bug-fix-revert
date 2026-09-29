@@ -1,0 +1,17 @@
+curl https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/11858
+
+"number": 11858,
+"state": "closed",
+"title": "Revert typo fix",
+"head": {
+    "label": "Sidd9arth:bug-fix-revert",
+    "repo": {
+        "full_name": "Sidd9arth/mcino-Introduction-to-Git-and-GitHub"
+    }
+},
+"base": {
+    "label": "main",
+    "repo": {
+        "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+    }
+}
